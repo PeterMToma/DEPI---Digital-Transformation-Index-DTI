@@ -5,13 +5,21 @@ The project addresses the following key questions:
 ​Main Question: What is the impact of digital transformation on financial inclusion in the studied countries?
 ​Sub-Questions:
 -​What is the digital transformation level in each country?
+
 -What is the digital divide between developing and advanced countries?
+
 -Which digital dimensions (Internet, E-Payment, E-Government) represent a point of strength or weakness for each country?
+
 -Does the increased use of digital payments lead to a higher percentage of bank account ownership?
+
 -Do countries with advanced E-Government achieve higher levels of financial inclusion?
+
 -​Is there a correlation between internet penetration and increased financial inclusion?
+
 -​Which dimension has a stronger impact on economic growth: Digitalization or Financial Inclusion?
+
 -Have countries that developed digitally over the past 5-10 years seen an improvement in financial inclusion indicators?
+
 # ​Team Members
 ​1-Peter Toma
 ​2-Abdalla 
