@@ -2,35 +2,35 @@
 
 1- Project Idea:
 
-The project aims to measure and evaluate the level of digital transformation in Egypt compared to selected countries, based on quantitative and qualitative data, in order to identify strengths, weaknesses, and opportunities for improvement.
+   The project aims to measure and evaluate the level of digital transformation in Egypt compared to selected countries, based on quantitative and qualitative data, in order to identify strengths, weaknesses, and opportunities for improvement.
 
 Countries to be compared:
-- Saudi Arabia
-- United Arab Emirates
-- India
-- United Kingdom
+   
+   - Saudi Arabia
+   - United Arab Emirates
+   - India
+   - United Kingdom
   
 
-Time Period:
+2- Time Period:
 
-  From 2016 to 2026
-
-  
-  
- 2- Project Objectives:
-
-1- Analyze the development of digital transformation in Egypt over the past ten years.
-
-2- Compare Egypt with the selected countries to understand its regional and global position in digital transformation.
-
-3- Identify the key factors influencing digital transformation, such as internet penetration, e-government services, electronic payments, and financial inclusion.
-
-
-4- Provide data-driven recommendations to support decision-makers in improving digital policies.
-
+From 2016 to 2026
 
   
-3- Project Question:
+  
+3- Project Objectives:
+
+* Analyze the development of digital transformation in Egypt over the past ten years.
+
+* Compare Egypt with the selected countries to understand its regional and global position in digital transformation.
+
+* Identify the key factors influencing digital transformation, such as internet penetration, e-government services, electronic payments, and financial inclusion.
+
+* Provide data-driven recommendations to support decision-makers in improving digital policies.
+
+
+  
+4- Project Question:
 
 The project addresses the following key questions:
 
