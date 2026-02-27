@@ -1,6 +1,6 @@
 # Digital-Transformation-Index-DTI-
 
-1- Project Idea:
+  1- Project Idea:
 
    The project aims to measure and evaluate the level of digital transformation in Egypt compared to selected countries, based on quantitative and qualitative data, in order to identify strengths, weaknesses, and opportunities for improvement.
 
@@ -108,14 +108,19 @@ Visual Identity & Design:* All members
 8-  KPIs 
 
 ​Digital Government: 
+
    Number of online services, response speed, and service quality.
    
 ​Internet:
+
    Penetration rates, connection speed, and smartphone usage.
    
 ​E-Payment:
+
    Volume of digital transactions, E-commerce and E-Wallet adoption.
+   
 ​Financial Inclusion:
+
    Number of bank accounts and percentage of the population using digital finance.
 
   
