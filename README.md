@@ -16,7 +16,6 @@ Countries to be compared:
    From 2016 to 2026
 
   
-  
 3- Project Objectives:
 
    * Analyze the development of digital transformation in Egypt over the past ten years.
@@ -31,30 +30,30 @@ Countries to be compared:
   
 4- Project Question:
 
-The project addresses the following key questions:
+   The project addresses the following key questions:
 
 ​# Main Question: 
 
-What is the impact of digital transformation on financial inclusion in the studied countries?
+   What is the impact of digital transformation on financial inclusion in the studied countries?
 
 
 # ​Sub-Questions:
 
-1- ​What is the digital transformation level in each country?
+   1- ​What is the digital transformation level in each country?
 
-2-  What is the digital divide between developing and advanced countries?
+   2- What is the digital divide between developing and advanced countries?
 
-3-  Which digital dimensions (Internet, E-Payment, E-Government) represent a point of strength or weakness for each country?
+   3- Which digital dimensions (Internet, E-Payment, E-Government) represent a point of strength or weakness for each country?
 
-4-  Does the increased use of digital payments lead to a higher percentage of bank account ownership?
+   4- Does the increased use of digital payments lead to a higher percentage of bank account ownership?
 
-5-  Do countries with advanced E-Government achieve higher levels of financial inclusion?
+   5- Do countries with advanced E-Government achieve higher levels of financial inclusion?
 
-6-  ​Is there a correlation between internet penetration and increased financial inclusion?
+   6- Is there a correlation between internet penetration and increased financial inclusion?
 
-7-  ​Which dimension has a stronger impact on economic growth: Digitalization or Financial Inclusion?
+   7- Which dimension has a stronger impact on economic growth: Digitalization or Financial Inclusion?
 
-8-  Have countries that developed digitally over the past 5-10 years seen an improvement in financial inclusion indicators?
+   8- Have countries that developed digitally over the past 5-10 years seen an improvement in financial inclusion indicators?
 
 
   
