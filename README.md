@@ -9,10 +9,12 @@ Countries to be compared:
 - United Arab Emirates
 - India
 - United Kingdom
+  
 
 Time Period:
 
   From 2016 to 2026
+
   
   
  2- Project Objectives:
@@ -25,14 +27,16 @@ Time Period:
 
 
 4- Provide data-driven recommendations to support decision-makers in improving digital policies.
+
   
-3- Project Question
+3- Project Question:
 
 The project addresses the following key questions:
 
 ​Main Question: 
 
 What is the impact of digital transformation on financial inclusion in the studied countries?
+
 
 ​Sub-Questions:
 
