@@ -58,45 +58,45 @@ Countries to be compared:
 
   
 
-4- ​Team Members
+5- ​Team Members:
 
-​1-Peter Toma
+   Peter Toma
 
-​2-Abdalla 
+​   Abudallah Saleh
 
-​3-Reham El Hawary
+   Reham El Hawary
 
-4-Monia
+   Monia Mahmoud
 
-5-Noha Salah
+   Noha Salah
 
 
-5- Project Plan
+6- Project Plan:
 
-# Research & Analysis: 
+  Research & Analysis: 
 
 # Data collection:
 
-From official sources like the World Bank and ITU.
+   From official sources like the World Bank and ITU.
 
 ​# Visual Identity: 
 
-Designing the logo and presentation theme.
+   Designing the logo and presentation theme.
 
 ​# Data Processing: 
 
-Cleaning data and unifying metrics for comparative analysis.
+   Cleaning data and unifying metrics for comparative analysis.
 
 # ​Analysis & Visualization: 
 
-Creating Heatmaps, Radar Charts, and trend lines (2016-2026).
+   Creating Heatmaps, Radar Charts, and trend lines (2016-2026).
 
 # ​Final Presentation: 
 
-Summarizing findings and policy recommendations.
+   Summarizing findings and policy recommendations.
 
-
-# ​Roles & Responsibilities
+ 7- ​Roles & Responsibilities:
+  
 Our team follows a *Collaborative Approach*, where all members participate in every phase of the project to ensure data consistency and shared learning.
 Research & Data Collection:* All members
 Data Cleaning & Unifying Metrics:* All members
@@ -104,11 +104,19 @@ Statistical Analysis (Python/SQL):* All members
 Data Visualization (Power BI/Tableau):* All members
 Visual Identity & Design:* All members
  Final Documentation & GitHub Management:* All members
-# KPIs 
-​Digital Government: Number of online services, response speed, and service quality.
-​Internet: Penetration rates, connection speed, and smartphone usage.
-​E-Payment: Volume of digital transactions, E-commerce and E-Wallet adoption.
-​Financial Inclusion: Number of bank accounts and percentage of the population using digital finance.
+ 
+8-  KPIs 
+
+​Digital Government: 
+   Number of online services, response speed, and service quality.
+   
+​Internet:
+   Penetration rates, connection speed, and smartphone usage.
+   
+​E-Payment:
+   Volume of digital transactions, E-commerce and E-Wallet adoption.
+​Financial Inclusion:
+   Number of bank accounts and percentage of the population using digital finance.
 
   
 
