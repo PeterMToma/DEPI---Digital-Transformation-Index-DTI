@@ -75,7 +75,9 @@ What is the impact of digital transformation on financial inclusion in the studi
 
 # Research & Analysis: 
 
-Data collection from official sources like the World Bank and ITU.
+# Data collection:
+
+From official sources like the World Bank and ITU.
 
 ​# Visual Identity: 
 
