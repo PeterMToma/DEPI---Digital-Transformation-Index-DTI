@@ -1,6 +1,6 @@
 # Digital-Transformation-Index-DTI-
 
-  1- Project Idea:
+  # Project Idea:
 
    The project aims to measure and evaluate the level of digital transformation in Egypt compared to selected countries, based on quantitative and qualitative data, in order to identify strengths, weaknesses, and opportunities for improvement.
 
@@ -11,12 +11,12 @@ Countries to be compared:
    - United Kingdom
   
 
-2- Time Period:
+# Time Period:
 
    From 2016 to 2026
 
   
-3- Project Objectives:
+# Project Objectives:
 
    * Analyze the development of digital transformation in Egypt over the past ten years.
 
@@ -28,7 +28,7 @@ Countries to be compared:
 
 
   
-4- Project Question:
+# Project Question:
 
    The project addresses the following key questions:
 
@@ -71,7 +71,7 @@ Countries to be compared:
    Noha Salah
 
 
-6- Project Plan:
+# Project Plan:
 
   Research & Analysis: 
 
@@ -95,7 +95,7 @@ Countries to be compared:
 
    Summarizing findings and policy recommendations.
 
- 7- ​Roles & Responsibilities:
+ # ​Roles & Responsibilities:
   
 Our team follows a *Collaborative Approach*, where all members participate in every phase of the project to ensure data consistency and shared learning.
 Research & Data Collection:* All members
@@ -105,7 +105,7 @@ Data Visualization (Power BI/Tableau):* All members
 Visual Identity & Design:* All members
  Final Documentation & GitHub Management:* All members
  
-8-  KPIs 
+# KPIs 
 
 ​Digital Government: 
 
