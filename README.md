@@ -10,9 +10,10 @@ Countries to be compared:
 - India
 - United Kingdom
 
-  Time Period:
+Time Period:
 
   From 2016 to 2026
+  
   
  2- Project Objectives:
 
@@ -22,12 +23,19 @@ Countries to be compared:
 
 3- Identify the key factors influencing digital transformation, such as internet penetration, e-government services, electronic payments, and financial inclusion.
 
+
 4- Provide data-driven recommendations to support decision-makers in improving digital policies.
   
-# Project Question
+3- Project Question
+
 The project addresses the following key questions:
-​Main Question: What is the impact of digital transformation on financial inclusion in the studied countries?
+
+​Main Question: 
+
+What is the impact of digital transformation on financial inclusion in the studied countries?
+
 ​Sub-Questions:
+
 -​What is the digital transformation level in each country?
 
 - What is the digital divide between developing and advanced countries?
