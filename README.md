@@ -77,7 +77,7 @@ Countries to be compared:
 # Data collection:
 
    From official sources like the World Bank and ITU.
-
+   
 ​# Visual Identity: 
 
    Designing the logo and presentation theme.
