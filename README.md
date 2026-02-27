@@ -5,7 +5,6 @@
    The project aims to measure and evaluate the level of digital transformation in Egypt compared to selected countries, based on quantitative and qualitative data, in order to identify strengths, weaknesses, and opportunities for improvement.
 
 Countries to be compared:
-   
    - Saudi Arabia
    - United Arab Emirates
    - India
