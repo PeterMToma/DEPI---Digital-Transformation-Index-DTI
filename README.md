@@ -1,4 +1,4 @@
-# Digital TransformationvIndex (DTI)
+# Digital Transformation Index (DTI)
 
   # Project Idea:
 
