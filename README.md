@@ -58,7 +58,8 @@ What is the impact of digital transformation on financial inclusion in the studi
 - Have countries that developed digitally over the past 5-10 years seen an improvement in financial inclusion indicators?
   
 
-# ​Team Members
+4- ​Team Members
+
 ​1-Peter Toma
 
 ​2-Abdalla 
@@ -69,12 +70,23 @@ What is the impact of digital transformation on financial inclusion in the studi
 
 5-Noha Salah
 
-# Project Plan
-Research & Analysis: Data collection from official sources like the World Bank and ITU.
+
+5- Project Plan
+
+Research & Analysis: 
+Data collection from official sources like the World Bank and ITU.
+
 ​Visual Identity: Designing the logo and presentation theme.
-​Data Processing: Cleaning data and unifying metrics for comparative analysis.
-​Analysis & Visualization: Creating Heatmaps, Radar Charts, and trend lines (2016-2026).
-​Final Presentation: Summarizing findings and policy recommendations.
+
+​Data Processing: 
+Cleaning data and unifying metrics for comparative analysis.
+
+​Analysis & Visualization: 
+Creating Heatmaps, Radar Charts, and trend lines (2016-2026).
+​Final Presentation: 
+Summarizing findings and policy recommendations.
+
+
 # ​Roles & Responsibilities
 Our team follows a *Collaborative Approach*, where all members participate in every phase of the project to ensure data consistency and shared learning.
 Research & Data Collection:* All members
