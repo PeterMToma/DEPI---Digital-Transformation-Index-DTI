@@ -27,7 +27,7 @@ Countries to be compared:
 
 
   
-# Project Question:
+# Project Questions:
 
    The project addresses the following key questions:
    
