@@ -104,7 +104,7 @@ Data Visualization (Power BI/Tableau):* All members
 Visual Identity & Design:* All members
  Final Documentation & GitHub Management:* All members
  
-# KPIs 
+# KPIs: 
 
 # ​Digital Government: 
 
@@ -118,7 +118,7 @@ Visual Identity & Design:* All members
 
    Volume of digital transactions, E-commerce and E-Wallet adoption.
    
-​# Financial Inclusion:
+# Financial Inclusion:
 
    Number of bank accounts and percentage of the population using digital finance.
 
