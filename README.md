@@ -106,19 +106,19 @@ Visual Identity & Design:* All members
  
 # KPIs 
 
-​Digital Government: 
+# ​Digital Government: 
 
    Number of online services, response speed, and service quality.
    
-​Internet:
+# ​Internet:
 
    Penetration rates, connection speed, and smartphone usage.
    
-​E-Payment:
+# ​E-Payment:
 
    Volume of digital transactions, E-commerce and E-Wallet adoption.
    
-​Financial Inclusion:
+​# Financial Inclusion:
 
    Number of bank accounts and percentage of the population using digital finance.
 
