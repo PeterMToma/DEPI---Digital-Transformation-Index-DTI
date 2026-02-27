@@ -56,6 +56,7 @@ What is the impact of digital transformation on financial inclusion in the studi
 - ​Which dimension has a stronger impact on economic growth: Digitalization or Financial Inclusion?
 
 - Have countries that developed digitally over the past 5-10 years seen an improvement in financial inclusion indicators?
+  
 
 # ​Team Members
 ​1-Peter Toma
