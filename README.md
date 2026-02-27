@@ -1,5 +1,14 @@
 # Digital-Transformation-Index-DTI-
-DTI is a data analysis project that compares Egypt with selected countries worldwide (KSA, UAE, India and UK) in terms of digital transformation. It evaluates digital government services, internet penetration, electronic payments, financial inclusion, and e-government development to provide data-driven insights and highlight strengths and improvement areas.
+
+1- Project Idea:
+The project aims to measure and evaluate the level of digital transformation in Egypt compared to selected countries, based on quantitative and qualitative data, in order to identify strengths, weaknesses, and opportunities for improvement.
+
+Countries to be compared:
+- Saudi Arabia
+- United Arab Emirates
+- India
+- United Kingdom
+  
 # Project Question
 The project addresses the following key questions:
 ​Main Question: What is the impact of digital transformation on financial inclusion in the studied countries?
