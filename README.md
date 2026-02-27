@@ -82,7 +82,7 @@ Countries to be compared:
 
    Designing the logo and presentation theme.
 
-​# Data Processing: 
+# Data Processing: 
 
    Cleaning data and unifying metrics for comparative analysis.
 
