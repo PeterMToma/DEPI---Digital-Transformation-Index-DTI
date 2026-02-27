@@ -30,7 +30,7 @@ Countries to be compared:
 # Project Question:
 
    The project addresses the following key questions:
-
+   
 ​# Main Question: 
 
    What is the impact of digital transformation on financial inclusion in the studied countries?
