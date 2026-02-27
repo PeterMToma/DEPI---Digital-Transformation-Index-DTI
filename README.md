@@ -43,19 +43,19 @@ What is the impact of digital transformation on financial inclusion in the studi
 
 -​What is the digital transformation level in each country?
 
-- What is the digital divide between developing and advanced countries?
+1-  What is the digital divide between developing and advanced countries?
 
-- Which digital dimensions (Internet, E-Payment, E-Government) represent a point of strength or weakness for each country?
+2-  Which digital dimensions (Internet, E-Payment, E-Government) represent a point of strength or weakness for each country?
 
-- Does the increased use of digital payments lead to a higher percentage of bank account ownership?
+3-  Does the increased use of digital payments lead to a higher percentage of bank account ownership?
 
-- Do countries with advanced E-Government achieve higher levels of financial inclusion?
+4-  Do countries with advanced E-Government achieve higher levels of financial inclusion?
 
-- ​Is there a correlation between internet penetration and increased financial inclusion?
+5-  ​Is there a correlation between internet penetration and increased financial inclusion?
 
-- ​Which dimension has a stronger impact on economic growth: Digitalization or Financial Inclusion?
+6-  ​Which dimension has a stronger impact on economic growth: Digitalization or Financial Inclusion?
 
-- Have countries that developed digitally over the past 5-10 years seen an improvement in financial inclusion indicators?
+7-  Have countries that developed digitally over the past 5-10 years seen an improvement in financial inclusion indicators?
   
 
 4- ​Team Members
@@ -73,17 +73,24 @@ What is the impact of digital transformation on financial inclusion in the studi
 
 5- Project Plan
 
-Research & Analysis: 
+# Research & Analysis: 
+
 Data collection from official sources like the World Bank and ITU.
 
-​Visual Identity: Designing the logo and presentation theme.
+​# Visual Identity: 
 
-​Data Processing: 
+Designing the logo and presentation theme.
+
+​# Data Processing: 
+
 Cleaning data and unifying metrics for comparative analysis.
 
-​Analysis & Visualization: 
+# ​Analysis & Visualization: 
+
 Creating Heatmaps, Radar Charts, and trend lines (2016-2026).
-​Final Presentation: 
+
+# ​Final Presentation: 
+
 Summarizing findings and policy recommendations.
 
 
