@@ -13,19 +13,19 @@ Countries to be compared:
 
 2- Time Period:
 
-From 2016 to 2026
+   From 2016 to 2026
 
   
   
 3- Project Objectives:
 
-* Analyze the development of digital transformation in Egypt over the past ten years.
+   * Analyze the development of digital transformation in Egypt over the past ten years.
 
-* Compare Egypt with the selected countries to understand its regional and global position in digital transformation.
+   * Compare Egypt with the selected countries to understand its regional and global position in digital transformation.
 
-* Identify the key factors influencing digital transformation, such as internet penetration, e-government services, electronic payments, and financial inclusion.
+   * Identify the key factors influencing digital transformation, such as internet penetration, e-government services, electronic payments, and financial inclusion.
 
-* Provide data-driven recommendations to support decision-makers in improving digital policies.
+   * Provide data-driven recommendations to support decision-makers in improving digital policies.
 
 
   
