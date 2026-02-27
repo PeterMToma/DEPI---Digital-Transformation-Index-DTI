@@ -61,7 +61,7 @@ Countries to be compared:
 
    Peter Toma
 
-​  Abudallah Saleh
+​   Abudallah Saleh
 
    Reham El Hawary
 
